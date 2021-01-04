@@ -57,12 +57,12 @@ header{
     margin-top:10px;
   }
   
-  header .res, header .home a{
+  header .res{
     color:#e8491d;
     font-weight:bold;
   }
   
   header a:hover{
-    color:#cccccc;
+    color:#e8491d;
     font-weight:bold;
   }
