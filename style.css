@@ -111,7 +111,27 @@ header{
     height:38px;
     background:#e8491d;
     border:0;
-    padding-left: 20px;
-    padding-right:20px;
+    padding: 0 20px;
     color:#ffffff;
+  }
+
+  /* technos */
+#technos .container{
+    margin-top:20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+    flex-wrap: wrap;
+  }
+  
+  #technos .tech{
+    text-align: center;
+    padding:10px;
+    width:30%;
+
+  }
+  
+  #technos .tech img{
+    width:90px;
   }
