@@ -136,6 +136,26 @@ header{
     width:90px;
   }
 
+
+  /* Sidebar */
+aside#sidebar{
+    float:right;
+    width:30%;
+    margin-top:10px;
+  }
+.color{
+    padding:15px;
+    background:#35424a;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+  /* left-col */
+  article#left-col{
+    float:left;
+    width:65%;
+  }
+
   /* footer */
   footer{
     padding:20px;
