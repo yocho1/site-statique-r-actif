@@ -156,6 +156,20 @@ aside#sidebar{
     width:65%;
   }
 
+/* Services */
+aside#sidebar .form input, aside#sidebar .form textarea{
+    width:90%;
+    padding:5px;
+  }
+ul#service li{
+    list-style: none;
+    padding:20px;
+    border: #cccccc solid 1px;
+    margin-bottom:5px;
+    background:#e6e6e6;
+  }
+
+
   /* footer */
   footer{
     padding:20px;
